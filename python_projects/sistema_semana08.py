@@ -1,9 +1,4 @@
-"""
-Nome: Luiz Henrique Martins
-Turma: (11100010563_20231_02)
-Professor: Lucas Emanuel Silva E Oliveira
-Curso: Análise e Desenvolvimento de Sistemas
-"""
+
 
 import json
 import re
